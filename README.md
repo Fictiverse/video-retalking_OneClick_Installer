@@ -1,3 +1,5 @@
+[One click installer Link](https://github.com/Fictiverse/video-retalking_OneClick_Installer/releases/tag/0.1)
+
 <div align="center">
 
 <h2>VideoReTalking <br/> <span style="font-size:12px">Audio-based Lip Synchronization for Talking Head Video Editing in the Wild</span> </h2> 
